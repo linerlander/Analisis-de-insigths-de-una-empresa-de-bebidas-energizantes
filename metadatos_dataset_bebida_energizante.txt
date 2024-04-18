@@ -1,0 +1,31 @@
+------------------------------------|------------------------------------------------------------------------------------------------------------------
+Columna                             |      Descripción
+------------------------------------|------------------------------------------------------------------------------------------------------------------
+ID_encuestado                       |      Identificador de la persona encuestada
+Edad                                |      Rango de edad de la persona encuestada
+Género                              |      Género de la persona encuestada
+ID_Ciudad                           |      Identificador de la ciudad donde vive la persona encuestada
+ID_respuesta                        |      Identificador de la respuesta dada por la persona encuestada
+Frec_consumo                        |      Respuesta a la pregunta "¿Con qué frecuencia consume bebidas energizantes?"
+Momento_consumo                     |      Respuesta a la pregunta "¿En qué momentos consume usualmente bebidas energizantes?"
+Motivo_consumo                      |      Respuesta a la pregunta "¿Cuáles son las razones principales por las cuales consume bebidas energizantes?"
+Conocía_marca                       |      Respuesta a la pregunta "¿Antes de responder esta encuesta había oído hablar de nuestra bebida energizante?"
+Percepción_marca                    |      Respuesta a la pregunta "¿Qué opinión tiene del nombre de nuestra marca y de nuestro logo?"
+Percepción_general                  |      Respuesta a la pregunta "¿Cuál es su percepción de las bebidas energizantes en general?"
+Había_probado                       |      Respuesta a la pregunta "¿Había probado antes nuestra bebida energética?"
+Experiencia_sabor                   |      Respuesta a la pregunta "¿cómo calificaría el sabor y la experiencia al probar la bebida?"
+Motivos_no_probarla                 |      Respuesta a la pregunta "¿cuál es la principal razón por la cual no la ha probado?"
+Marcas_que_consume                  |      Respuesta a la pregunta "¿Cuál otra marca de bebida energizante consume actualmente o prefiere?"
+Motivos_escoger_marca               |      Respuesta a la pregunta "¿Qué lo ha llevado a escoger esta marca?"
+Mejoras_sugeridas                   |      Respuesta a la pregunta "¿Qué aspecto mejoraría en las bebidas energizantes existentes actualmente?"
+Ingredientes_esperados              |      Respuesta a la pregunta "¿Qué ingredientes esperaría en una bebida energizante?"
+Preocupaciones_salud                |      Respuesta a la pregunta "¿Le preocupan los efectos que el consumo de bebidas energizantes pueda tener en su salud?"
+Interés_en_natural_o_organico       |      Respuesta a la pregunta "¿Estaría dispuesto a consumir una bebida energizante con ingredientes naturales u orgánicos?"
+Canales_marketing                   |      Respuesta a la pregunta "¿A través de qué canales encuentra publicidad relacionada con bebidas energizantes?"
+Preferencia_empaque                 |      Respuesta a la pregunta "¿Qué tipo de empaquetamiento o diseño de botella le gustaría ver en una botella energizante?"
+Empaque_ed_limitada                 |      Respuesta a la pregunta "Si viniese en un empaquetado tipo “edición limitada” ¿sería más probable que comprara una bebida energizante?"
+Rango_precios                       |      Respuesta a la pregunta "¿Qué rango de precios considera razonable para una bebida energizante?"
+Lugar_compra                        |      Respuesta a la pregunta "¿Usualmente en dónde compra bebidas energizantes?"
+Situaciones_típicas_consumo         |      Respuesta a la pregunta "¿En qué ocasiones suele consumir bebidas energizantes?"
+Ciudad                              |      Respuesta a la pregunta "¿En qué ciudad vive?"
+Cat_Ciudad                          |      Nivel de importancia de la ciudad para nuestro posicionamiento de marca
